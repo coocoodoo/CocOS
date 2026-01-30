@@ -219,4 +219,16 @@ terminal. Requires an SD card.
 
 ================================================================================
 
+
+<img width="240" height="135" alt="SCR_004406340" src="https://github.com/user-attachments/assets/9efda188-5208-4057-961d-69fa1e1838e7" />
+<img width="240" height="135" alt="SCR_004409831" src="https://github.com/user-attachments/assets/cea4cf04-a658-4acb-ba4c-a43e4c4e64c3" />
+<img width="240" height="135" alt="SCR_004413114" src="https://github.com/user-attachments/assets/2c3fda1e-d069-45cf-accc-1755fb298fc8" />
+<img width="240" height="135" alt="SCR_004417755" src="https://github.com/user-attachments/assets/76568c7e-462f-40ff-b31d-e8df1636547e" />
+<img width="240" height="135" alt="SCR_004420806" src="https://github.com/user-attachments/assets/871473c4-05ab-4288-8b1a-36bca7979af3" />
+<img width="240" height="135" alt="SCR_004423886" src="https://github.com/user-attachments/assets/02ea2e04-c9cb-4016-a7c5-dd069d0745ce" />
+<img width="240" height="135" alt="SCR_004427028" src="https://github.com/user-attachments/assets/fffff372-9d59-4e59-b731-c0d02618ebc8" />
+
+
+
+
 <img width="500" height="100" alt="Spectral-10 (1)" src="https://github.com/user-attachments/assets/ebbb766e-49e3-4bd6-9a98-f816bb4cde76" />
