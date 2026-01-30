@@ -1,9 +1,9 @@
 
 <img width="1024" height="1024" alt="Cocos" src="https://github.com/user-attachments/assets/2ebeea57-4104-43f6-8197-280181befe06" />
-================================================================================
+===========================================================================
   M5Stack Cardputer Terminal & COC UI System
   Retro Pixel Art UI Edition v4.5.0
-================================================================================
+===========================================================================
 
 A feature-rich terminal and menu system for the M5Stack Cardputer, with a
 retro pixel-art style UI. Boots into the COC menu; press Fn+T to open the
@@ -217,7 +217,7 @@ terminal. Requires an SD card.
   v4.4.0 — Global volume (Fn+[/]), sound command, improved Mic Recorder UI.
   v4.3.1 — Audio fixes, terminal "sound" command, VU meter improvements.
 
-================================================================================
+===========================================================================
 
 
 <img width="240" height="135" alt="SCR_004406340" src="https://github.com/user-attachments/assets/9efda188-5208-4057-961d-69fa1e1838e7" />
